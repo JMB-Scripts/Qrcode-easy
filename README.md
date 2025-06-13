@@ -12,12 +12,12 @@
     Run this script with Python 3 and PyQt5 installed:
         python my_qrcode-v3.py
         
-    Or run standalone version that can be downloaded below
+# Run standalone version that can be downloaded below
 
-    Mac :
+    ## Mac :
   
   [Get it from Here](https://cloud.univ-grenoble-alpes.fr/s/pAAQxSY8nE9ZBLA)    
 
-    Windows :
+    ## Windows :
     
   [Here](https://cloud.univ-grenoble-alpes.fr/s/98WrWHECQCcJPCY)
