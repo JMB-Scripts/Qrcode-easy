@@ -1,7 +1,7 @@
 # Qrcode-easy
- QR Code Generator (GUI version)
+  QR Code Generator (GUI version)
 
-    Features:
+## Features:
     - Enter a URL to encode
     - Choose a QR code color
     - Set the output filename
@@ -11,13 +11,15 @@
     Usage:
     Run this script with Python 3 and PyQt5 installed:
         python my_qrcode-v3.py
-        
-# Run standalone version that can be downloaded below
 
-    ## Mac :
+![image](https://github.com/user-attachments/assets/fa24e2d8-2db0-4e16-972d-bcf423667afd)
+       
+## Run standalone version :
+
+### Mac :
   
-  [Get it from Here](https://cloud.univ-grenoble-alpes.fr/s/pAAQxSY8nE9ZBLA)    
+  [Get it from here](https://cloud.univ-grenoble-alpes.fr/s/pAAQxSY8nE9ZBLA)    
 
-    ## Windows :
+### Windows :
     
-  [Here](https://cloud.univ-grenoble-alpes.fr/s/98WrWHECQCcJPCY)
+  [Get it from here](https://cloud.univ-grenoble-alpes.fr/s/98WrWHECQCcJPCY)
