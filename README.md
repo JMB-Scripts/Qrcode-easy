@@ -16,8 +16,8 @@
 
     Mac 
 
-    [Here](https://cloud.univ-grenoble-alpes.fr/s/pAAQxSY8nE9ZBLA)
+    <ins>[Here](https://cloud.univ-grenoble-alpes.fr/s/pAAQxSY8nE9ZBLA)</ins>
 
     Windows 
     
-    [Here](https://cloud.univ-grenoble-alpes.fr/s/98WrWHECQCcJPCY)
+    </ins>[Here](https://cloud.univ-grenoble-alpes.fr/s/98WrWHECQCcJPCY)</ins>
