@@ -14,10 +14,10 @@
         
     Or run standalone version that can be downloaded below
 
-    Mac 
+    Mac :
+  
+  [Get it from Here](https://cloud.univ-grenoble-alpes.fr/s/pAAQxSY8nE9ZBLA)    
 
-    <ins>[Here](https://cloud.univ-grenoble-alpes.fr/s/pAAQxSY8nE9ZBLA)</ins>
-
-    Windows 
+    Windows :
     
-    </ins>[Here](https://cloud.univ-grenoble-alpes.fr/s/98WrWHECQCcJPCY)</ins>
+  [Here](https://cloud.univ-grenoble-alpes.fr/s/98WrWHECQCcJPCY)
